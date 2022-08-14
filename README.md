@@ -45,15 +45,15 @@ When the PC software was started, user is required to select correct COM port th
 
 ![PC software interface](figs/hostUI.png)
 
-PC software interface
+PC software user interface
 
-PC software link: 
+[PC software link](https://github.com/saikhamhein/SystemMonitorHost)
 
 ### Hardware
 
 Connection between MCU and LCD is through SPI connection clocked at 48Mbps (highest speed available on STM32F411 if we wanted to have USB functionality. The LCD being used is 1.3 inch LCD, 240*240px, ST7789 driver IC. It is recommended to get IPS panel due to high viewing angle although it is a bit more expensive. Currently there is no external EEPROM to store GUI. I might add EEPROM later.
 
-![System status on LCD](figs/LcdGui.jpeg)
+<img src="/figs/LcdGui.jpeg" width="300" height="330">
 
 System status on LCD
 

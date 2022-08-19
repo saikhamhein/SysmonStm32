@@ -4,9 +4,9 @@
 
 ## Description
 
-This aim of this project is to make something to display user status of the pc without having system info overlay on the monitor.
+This aim of this project is to make something to display pc hardware status on small LCD screen without having system info overlay on the monitor.
 
-This project is base on STM32F411 driving small LCD to display computer hardware status to user.
+This project is using STM32F411 driving small LCD to display computer hardware status to user.
 
 Project Links: 
 
